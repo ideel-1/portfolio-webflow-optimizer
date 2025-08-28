@@ -1,0 +1,15 @@
+﻿# Python caches
+__pycache__/
+*.pyc
+
+# Build caches
+dist/
+site/.cache/
+site/images/manifest.json
+
+# Exports (large zips), keep local
+exports/
+
+# Editor junk
+.DS_Store
+Thumbs.db
